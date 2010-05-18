@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-Name: Notification API
+Bundle-SymbolicName: com.protocol7.osgi.notification.api
+Export-Package: com.protocol7.osgi.notification.api
+Bundle-Version: 1.0

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-Name: Notification Implementation
+Bundle-Activator: com.protocol7.osgi.notification.impl.Activator
+Bundle-SymbolicName: com.protocol7.osgi.notification.impl
+Import-Package: org.osgi.framework, com.protocol7.osgi.notification.api
+Bundle-Version: 1.2

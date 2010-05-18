@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-Name: Notification Spring Implementation
+Bundle-SymbolicName: com.protocol7.osgi.notification.impl.spring
+Import-Package: org.osgi.framework, com.protocol7.osgi.notification.api
+Bundle-Version: 1.0
