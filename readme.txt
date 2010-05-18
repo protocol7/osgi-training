@@ -1,0 +1,1 @@
+A set of exercises for an OSGi training I've got planned
