@@ -8,6 +8,7 @@
 	<packaging>pom</packaging>
 	
 	<modules>
+		<module>exercise1</module>
 		<module>exercise1-solution</module>
 	</modules>
 		
