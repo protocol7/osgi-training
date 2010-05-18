@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<parent>
+		<artifactId>exercise1-solution</artifactId>
+		<groupId>com.protocol7.osgi.training</groupId>
+		<version>1.0</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.protocol7.osgi.training</groupId>
+	<artifactId>notification-api-solution</artifactId>
+	<name>notification-api-solution</name>
+	<version>1.0</version>
+	
+</project>
