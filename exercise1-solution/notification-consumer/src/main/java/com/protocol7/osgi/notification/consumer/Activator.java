@@ -8,7 +8,6 @@ import com.protocol7.osgi.notification.api.NotificationService;
 
 public class Activator implements BundleActivator {
 
-	@Override
 	public void start(BundleContext context) {
 		System.out.println("Starting consumer");
 		ServiceReference reference = context.getServiceReference(NotificationService.class.getName());
@@ -19,7 +18,6 @@ public class Activator implements BundleActivator {
 		System.out.println("Starting consumer done");
 	}
 
-	@Override
 	public void stop(BundleContext context) throws Exception {
 		System.out.println("Stopping consumer");
 		
